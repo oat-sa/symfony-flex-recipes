@@ -1,0 +1,7 @@
+<bg=blue;fg=white>                     </>
+<bg=blue;fg=white> Next: Protected Data Provider Client Configuration </>
+<bg=blue;fg=white>                     </>
+
+  * Configure your parameters in <fg=green>config/packages/protected_data_provider_client.yaml</>
+
+  * <fg=blue>Read</> the documentation at <comment>https://github.com/oat-sa/bundle-protected-data-provider-client</>
