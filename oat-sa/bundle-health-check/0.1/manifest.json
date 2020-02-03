@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "health-check",
+        "healthcheck",
+        "health"
+    ],
+    "bundles": {
+        "OAT\\Bundle\\HealthCheckBundle\\HealthCheckBundle": [ "all" ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
