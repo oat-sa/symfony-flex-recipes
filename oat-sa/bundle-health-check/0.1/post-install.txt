@@ -1,7 +1,0 @@
-<bg=blue;fg=white>                     </>
-<bg=blue;fg=white> Next: Health Check bundle configuration </>
-<bg=blue;fg=white>                     </>
-
-  * Configure health check and ping routes in file <fg=green>config/routes/health_check.yaml</>
-
-  * <fg=blue>Read</> the documentation at <comment>https://github.com/oat-sa/bundle-health-check</>
