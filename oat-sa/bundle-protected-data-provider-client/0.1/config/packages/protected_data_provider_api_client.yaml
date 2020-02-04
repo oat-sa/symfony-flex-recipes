@@ -1,0 +1,6 @@
+protected_data_provider_api_client:
+    api_base_uri: null
+    api_username: null
+    api_password: null
+    access_token_ttl: 300
+    refresh_token_ttl: 3600

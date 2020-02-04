@@ -1,0 +1,11 @@
+{
+    "aliases": [
+        "protected-data-provider-client"
+    ],
+    "bundles": {
+        "OAT\\Bundle\\ProtectedDataProviderApiClientBundle\\ProtectedDataProviderApiClientBundle": [ "all" ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
